@@ -9,3 +9,7 @@ In my case, one of my supervisors appears in the MPG and has a ```mpg.id``` valu
 The ```supervise``` matrix links a student's ID, in the first column to a supervisor's ID, in the second. In my case, my ID (1) appears twice on the first column because I have two supervisors, and not on the right column, because I haven't supervised anyone. My supervisors appear both on the right and left. Other people will appear both and the right and left, linking everyone in the tree.
 
 I have also left an option to add the year of the first degree recorded in the Mathematics Genealogy Project after the name. This can be turned off by setting ```add_year = FALSE```.
+
+An example of a built tree is below:
+
+![genealogyTree](https://raw.githubusercontent.com/custodioij/MathematicalGenealogy/master/genealogyTree.png)
